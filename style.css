@@ -8,4 +8,20 @@
     /* z-index: 1; */
     
 }
-
+.container-fluid #images{
+    margin-left: 700px;
+    margin-top: 260px;
+}
+.container-fluid h1{
+    text-align: center;
+    margin-top: 90px;
+    color:white;
+}
+.container-fluid h6{
+    color: white;
+    text-align: center;
+}
+.container-fluid #image{
+    margin-left: 700px;
+    margin-top:255px;
+}
