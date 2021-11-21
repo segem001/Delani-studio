@@ -1,0 +1,11 @@
+.container-fluid{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),url(h_img.jpg);
+    background-repeat: no-repeat;
+    height: 120vh;
+    background-size: cover;
+    background-position: top center;
+    position: relative;
+    /* z-index: 1; */
+    
+}
+
