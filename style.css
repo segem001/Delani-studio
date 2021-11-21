@@ -195,3 +195,26 @@ textarea{
     text-align: center;
     margin-left: -200px;
 }
+.designLogo{
+    text-align: center;
+    font-weight: bold;
+
+}
+.designP{
+    text-align: center;
+
+}
+.devlogo{
+    font-weight: bold;
+    text-align: center;
+}
+.devs{
+    text-align: center;
+}
+.product{
+    font-weight: bold;
+    text-align: center;
+}
+.development{
+    text-align: center;
+}
