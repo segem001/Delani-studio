@@ -148,3 +148,27 @@ width:100%;
     padding: 10px;
     display: none;
 }
+.ContactUs{ 
+    background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url(c_image.jpg);
+    background-repeat: no-repeat;
+    height:350px;
+    background-size: cover;
+    background-position: top center;
+    position: relative;
+    margin-top: 50px;
+}
+.ContactUs h1{
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+}
+.col-md-4{
+    width:30%;
+    margin-right: auto;
+    height: 40px;
+}
+input[type="text"],[type="email"]{
+    margin-left: 160px;
+    background-color: transparent;
+    color:white
+}
