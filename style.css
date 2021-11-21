@@ -172,3 +172,26 @@ input[type="text"],[type="email"]{
     background-color: transparent;
     color:white
 }
+textarea{
+    margin-left: 160px;
+    background-color: transparent;
+    color: white;
+    margin-right: 1000px;
+
+}
+.footer{
+    height: auto;
+    margin-top: 50px;
+    margin-left: 250px;
+}
+.row{
+    margin-left: 250px;
+}
+   img {
+   padding-right: 10px;
+   
+}
+.footer h6{
+    text-align: center;
+    margin-left: -200px;
+}
