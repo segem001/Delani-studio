@@ -1,7 +1,7 @@
 .container-fluid{
     background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),url(h_img.jpg);
     background-repeat: no-repeat;
-    height: 120vh;
+    height: 135vh;
     background-size: cover;
     background-position: top center;
     position: relative;
@@ -9,12 +9,12 @@
     
 }
 .container-fluid #images{
-    margin-left: 700px;
-    margin-top: 260px;
+    margin-left: 50%;
+    margin-top: 330px;
 }
 .container-fluid h1{
     text-align: center;
-    margin-top: 90px;
+    margin-top: 110px;
     color:white;
 }
 .container-fluid h6{
@@ -22,8 +22,8 @@
     text-align: center;
 }
 .container-fluid #image{
-    margin-left: 700px;
-    margin-top:255px;
+    margin-left: 730px;
+    margin-top:275px;
 }
 .AboutUS{
     height:auto;
@@ -184,11 +184,11 @@ textarea{
     margin-top: 50px;
     margin-left: 250px;
 }
-.row{
-    margin-left: 250px;
+.footer .row{
+    margin-left: 350px;
 }
    img {
-   padding-right: 10px;
+   padding-left: 10px;
    
 }
 .footer h6{
