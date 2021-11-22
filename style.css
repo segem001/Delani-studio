@@ -1,7 +1,7 @@
 .container-fluid{
     background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),url(h_img.jpg);
     background-repeat: no-repeat;
-    height: 135vh;
+    height: 125vh;
     background-size: cover;
     background-position: top center;
     position: relative;
@@ -185,7 +185,7 @@ textarea{
     margin-left: 250px;
 }
 .footer .row{
-    margin-left: 420px;
+    margin-left: 320px;
 }
    img {
    padding-left: 10px;
