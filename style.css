@@ -9,12 +9,12 @@
     
 }
 .container-fluid #images{
-    margin-left: 50%;
+    margin-left: 48%;
     margin-top: 330px;
 }
 .container-fluid h1{
     text-align: center;
-    margin-top: 110px;
+    margin-top: 140px;
     color:white;
 }
 .container-fluid h6{
@@ -22,8 +22,8 @@
     text-align: center;
 }
 .container-fluid #image{
-    margin-left: 730px;
-    margin-top:275px;
+    margin-left: 780px;
+    margin-top:320px;
 }
 .AboutUS{
     height:auto;
@@ -185,7 +185,7 @@ textarea{
     margin-left: 250px;
 }
 .footer .row{
-    margin-left: 350px;
+    margin-left: 420px;
 }
    img {
    padding-left: 10px;
