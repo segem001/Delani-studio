@@ -184,7 +184,7 @@ textarea{
     margin-top: 50px;
     margin-left: 250px;
 }
-.row{
+.footer .row{
     margin-left: 250px;
 }
    img {
@@ -193,7 +193,7 @@ textarea{
 }
 .footer h6{
     text-align: center;
-    margin-left: -200px;
+    /* margin-left: -200px; */
 }
 .designLogo{
     text-align: center;
