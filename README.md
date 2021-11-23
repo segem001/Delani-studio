@@ -21,6 +21,11 @@ This a website which host a Delani studio which showcase what they do ,their ser
 
 ### Installation Process
 The project is setup in the visual studio code by creating an HTML file, a related CSS file and Javascript library.
+To start using this project use the following commands:
+ git clone https:https://github.com/segem001/Delani-studio
+ cd Delani-studio
+ code .
+
 
 ## Technology Used
 * HTML - which was used to build the structure of the pages.
