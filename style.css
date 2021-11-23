@@ -218,3 +218,14 @@ textarea{
 .development{
     text-align: center;
 }
+@media only screen and (max-width:425px){
+    #txtmesage{
+        background-color: red;
+        width:25%;
+        height:150px;
+    }
+    .footer .row{
+        display: flex;
+        margin-left: -250px;
+    }
+}
